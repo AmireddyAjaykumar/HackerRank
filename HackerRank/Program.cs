@@ -20,7 +20,9 @@ namespace HackerRank
             ////MinimumSwaps.PrintMinimumSwaps();
             ////ArrayManipulation.PrintMaxValeFromArray();
             ////TwoStrings.TwoStringsHaveCommonSubstrings();
-            RansomNote.CheckRansomNote();
+            //RansomNote.CheckRansomNote();
+            ////CountTriplets.GetTripletsCount();
+            MiniMaxSum.FindMiniMaxSum();
             Console.WriteLine("Hello World!");
             Console.ReadKey();
 
