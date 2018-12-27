@@ -45,6 +45,7 @@
     <Compile Include="ArrayLeftRotation.cs" />
     <Compile Include="ArrayManipulation.cs" />
     <Compile Include="CountTriplets.cs" />
+    <Compile Include="DivisibleSumPairs.cs" />
     <Compile Include="Hourglass.cs" />
     <Compile Include="JumpingOnClouds.cs" />
     <Compile Include="MaxOccurenceOfSubstring.cs" />
