@@ -23,7 +23,8 @@ namespace HackerRank
             //RansomNote.CheckRansomNote();
             ////CountTriplets.GetTripletsCount();
             ////MiniMaxSum.FindMiniMaxSum();
-            DivisibleSumPairs.GetDivisibleSumPairCount();
+            ////DivisibleSumPairs.GetDivisibleSumPairCount();
+            PlusMinus.PrintRatio();
             Console.WriteLine("Hello World!");
             Console.ReadKey();
 
