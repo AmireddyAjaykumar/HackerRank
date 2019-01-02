@@ -25,7 +25,9 @@ namespace HackerRank
             ////MiniMaxSum.FindMiniMaxSum();
             ////DivisibleSumPairs.GetDivisibleSumPairCount();
             ////PlusMinus.PrintRatio();
-            SequentialSets.SequenceSets();
+            ////SequentialSets.SequenceSets();
+            ////Kangaroo.CheckForSamePosition();
+            BreakingtheRecords.GetRecordBreakingCount();
             Console.WriteLine("Hello World!");
             Console.ReadKey();
 
