@@ -27,7 +27,10 @@ namespace HackerRank
             ////PlusMinus.PrintRatio();
             ////SequentialSets.SequenceSets();
             ////Kangaroo.CheckForSamePosition();
-            BreakingtheRecords.GetRecordBreakingCount();
+            ////BreakingtheRecords.GetRecordBreakingCount();
+            ////MakeAnagram.GetNoOfDeletions();
+            ////DayoftheProgrammer.GetDayOfTheProgrammer();
+            SuperMarketPriceInversions.GetInversionCount();
             Console.WriteLine("Hello World!");
             Console.ReadKey();
 
