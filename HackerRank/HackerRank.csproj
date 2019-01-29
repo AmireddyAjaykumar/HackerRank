@@ -45,6 +45,7 @@
     <Compile Include="ArrayLeftRotation.cs" />
     <Compile Include="ArrayManipulation.cs" />
     <Compile Include="BeautifulSubArrays.cs" />
+    <Compile Include="BiValuedSlices.cs" />
     <Compile Include="BreakingtheRecords.cs" />
     <Compile Include="CountTriplets.cs" />
     <Compile Include="DayoftheProgrammer.cs" />
@@ -65,6 +66,7 @@
     <Compile Include="SherlockAndAnagrams.cs" />
     <Compile Include="SocksMerchantProblem.cs" />
     <Compile Include="SuperMarketPriceInversions.cs" />
+    <Compile Include="TimeGapBetweenMeetings.cs" />
     <Compile Include="TwoStrings.cs" />
   </ItemGroup>
   <ItemGroup>
