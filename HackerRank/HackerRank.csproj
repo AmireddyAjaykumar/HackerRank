@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AppendAndDelete.cs" />
     <Compile Include="ArrayLeftRotation.cs" />
     <Compile Include="ArrayManipulation.cs" />
     <Compile Include="BeautifulSubArrays.cs" />

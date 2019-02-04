@@ -31,7 +31,8 @@ namespace HackerRank
             ////MakeAnagram.GetNoOfDeletions();
             ////DayoftheProgrammer.GetDayOfTheProgrammer();
             ////SuperMarketPriceInversions.GetInversionCount();
-            TimeGapBetweenMeetings.LongestTimeSlot();
+            ////TimeGapBetweenMeetings.LongestTimeSlot();
+            AppendAndDelete.GetResult();
             Console.WriteLine("Hello World!");
             Console.ReadKey();
 
