@@ -32,7 +32,9 @@ namespace HackerRank
             ////DayoftheProgrammer.GetDayOfTheProgrammer();
             ////SuperMarketPriceInversions.GetInversionCount();
             ////TimeGapBetweenMeetings.LongestTimeSlot();
-            AppendAndDelete.GetResult();
+            ////AppendAndDelete.GetResult();
+            ////BetweenTwoSets.GetBetweenSetsCount();
+            ACMICPCTeam.GetResult();
             Console.WriteLine("Hello World!");
             Console.ReadKey();
 
