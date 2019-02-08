@@ -48,6 +48,7 @@
     <Compile Include="ArrayManipulation.cs" />
     <Compile Include="BeautifulSubArrays.cs" />
     <Compile Include="BetweenTwoSets.cs" />
+    <Compile Include="BirthdayChocolate.cs" />
     <Compile Include="BiValuedSlices.cs" />
     <Compile Include="BreakingtheRecords.cs" />
     <Compile Include="CountTriplets.cs" />
