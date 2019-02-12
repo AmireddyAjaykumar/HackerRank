@@ -34,8 +34,9 @@ namespace HackerRank
             ////TimeGapBetweenMeetings.LongestTimeSlot();
             ////AppendAndDelete.GetResult();
             ////BetweenTwoSets.GetBetweenSetsCount();
-            BirthdayChocolate.GetResult();
+            ////BirthdayChocolate.GetResult();
             //ACMICPCTeam.GetResult();
+            ShortestPathAlgorithmAmazon.GetShortestPath();
             Console.WriteLine("Hello World!");
             Console.ReadKey();
 
