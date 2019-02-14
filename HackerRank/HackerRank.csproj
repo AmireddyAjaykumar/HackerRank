@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ACMICPCTeam.cs" />
+    <Compile Include="AlternatingCharacters.cs" />
     <Compile Include="AppendAndDelete.cs" />
     <Compile Include="ArrayLeftRotation.cs" />
     <Compile Include="ArrayManipulation.cs" />
@@ -69,8 +70,10 @@
     <Compile Include="RepeatedStrings.cs" />
     <Compile Include="SequentialSets.cs" />
     <Compile Include="SherlockAndAnagrams.cs" />
+    <Compile Include="SherlockValidString.cs" />
     <Compile Include="ShortestPathAlgorithmAmazon.cs" />
     <Compile Include="SocksMerchantProblem.cs" />
+    <Compile Include="SpecialPalindrome.cs" />
     <Compile Include="SuperMarketPriceInversions.cs" />
     <Compile Include="TimeGapBetweenMeetings.cs" />
     <Compile Include="TwoStrings.cs" />

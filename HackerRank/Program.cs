@@ -28,7 +28,7 @@ namespace HackerRank
             ////SequentialSets.SequenceSets();
             ////Kangaroo.CheckForSamePosition();
             ////BreakingtheRecords.GetRecordBreakingCount();
-            ////MakeAnagram.GetNoOfDeletions();
+            //MakeAnagram.GetNoOfDeletions();
             ////DayoftheProgrammer.GetDayOfTheProgrammer();
             ////SuperMarketPriceInversions.GetInversionCount();
             ////TimeGapBetweenMeetings.LongestTimeSlot();
@@ -36,7 +36,10 @@ namespace HackerRank
             ////BetweenTwoSets.GetBetweenSetsCount();
             ////BirthdayChocolate.GetResult();
             //ACMICPCTeam.GetResult();
-            ShortestPathAlgorithmAmazon.GetShortestPath();
+            //ShortestPathAlgorithmAmazon.GetShortestPath();
+            //AlternatingCharacters.GetAlternatingCharactersCount();
+            //SherlockValidString.CheckSherlockValidString();
+            SpecialPalindrome.GetSpecialPalindromeCount();
             Console.WriteLine("Hello World!");
             Console.ReadKey();
 
