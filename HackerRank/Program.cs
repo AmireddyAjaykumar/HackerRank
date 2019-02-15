@@ -39,7 +39,9 @@ namespace HackerRank
             //ShortestPathAlgorithmAmazon.GetShortestPath();
             //AlternatingCharacters.GetAlternatingCharactersCount();
             //SherlockValidString.CheckSherlockValidString();
-            SpecialPalindrome.GetSpecialPalindromeCount();
+            //SpecialPalindrome.GetSpecialPalindromeCount();
+            //LeadLife.Execute();
+            PickingNumbers.GetSubArrayLength();
             Console.WriteLine("Hello World!");
             Console.ReadKey();
 

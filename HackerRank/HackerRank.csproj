@@ -59,10 +59,12 @@
     <Compile Include="Hourglass.cs" />
     <Compile Include="JumpingOnClouds.cs" />
     <Compile Include="Kangaroo.cs" />
+    <Compile Include="LeadLife.cs" />
     <Compile Include="MakeAnagram.cs" />
     <Compile Include="MaxOccurenceOfSubstring.cs" />
     <Compile Include="MiniMaxSum.cs" />
     <Compile Include="MinimumSwaps.cs" />
+    <Compile Include="PickingNumbers.cs" />
     <Compile Include="PlusMinus.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
