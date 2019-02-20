@@ -42,7 +42,8 @@ namespace HackerRank
             //SpecialPalindrome.GetSpecialPalindromeCount();
             //LeadLife.Execute();
             //PickingNumbers.GetSubArrayLength();
-            PlusMult.GetPlusMult();
+            //PlusMult.GetPlusMult();
+            BubbleSort.GetSwapsCount();
             Console.WriteLine("Hello World!");
             Console.ReadKey();
 

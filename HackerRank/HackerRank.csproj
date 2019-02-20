@@ -53,6 +53,7 @@
     <Compile Include="BirthdayChocolate.cs" />
     <Compile Include="BiValuedSlices.cs" />
     <Compile Include="BreakingtheRecords.cs" />
+    <Compile Include="BubbleSort.cs" />
     <Compile Include="CountTriplets.cs" />
     <Compile Include="DayoftheProgrammer.cs" />
     <Compile Include="DivisibleSumPairs.cs" />
