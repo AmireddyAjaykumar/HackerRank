@@ -41,7 +41,8 @@ namespace HackerRank
             //SherlockValidString.CheckSherlockValidString();
             //SpecialPalindrome.GetSpecialPalindromeCount();
             //LeadLife.Execute();
-            PickingNumbers.GetSubArrayLength();
+            //PickingNumbers.GetSubArrayLength();
+            PlusMult.GetPlusMult();
             Console.WriteLine("Hello World!");
             Console.ReadKey();
 

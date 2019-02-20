@@ -34,7 +34,7 @@ namespace HackerRank
                         haveEnergy = true;
                     }
 
-                    if (haveEnergy)
+                    if (haveEnergy && prevIndex != -1 && earnings[i] > costs[prevIndex])
                     {
                         maxEarn += earnings[i] * e;
                         haveEnergy = false;

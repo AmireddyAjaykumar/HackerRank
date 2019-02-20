@@ -66,6 +66,7 @@
     <Compile Include="MinimumSwaps.cs" />
     <Compile Include="PickingNumbers.cs" />
     <Compile Include="PlusMinus.cs" />
+    <Compile Include="PlusMult.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RansomNote.cs" />
