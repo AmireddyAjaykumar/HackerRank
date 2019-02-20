@@ -57,6 +57,7 @@
     <Compile Include="CountTriplets.cs" />
     <Compile Include="DayoftheProgrammer.cs" />
     <Compile Include="DivisibleSumPairs.cs" />
+    <Compile Include="FlippingBits.cs" />
     <Compile Include="Hourglass.cs" />
     <Compile Include="JumpingOnClouds.cs" />
     <Compile Include="Kangaroo.cs" />

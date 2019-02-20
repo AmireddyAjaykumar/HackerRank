@@ -43,7 +43,8 @@ namespace HackerRank
             //LeadLife.Execute();
             //PickingNumbers.GetSubArrayLength();
             //PlusMult.GetPlusMult();
-            BubbleSort.GetSwapsCount();
+            //BubbleSort.GetSwapsCount();
+            FlippingBits.FlipBits();
             Console.WriteLine("Hello World!");
             Console.ReadKey();
 
