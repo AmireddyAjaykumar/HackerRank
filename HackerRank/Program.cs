@@ -44,7 +44,8 @@ namespace HackerRank
             //PickingNumbers.GetSubArrayLength();
             //PlusMult.GetPlusMult();
             //BubbleSort.GetSwapsCount();
-            FlippingBits.FlipBits();
+            //FlippingBits.FlipBits();
+            TimeComplexityPrimality.Primality();
             Console.WriteLine("Hello World!");
             Console.ReadKey();
 

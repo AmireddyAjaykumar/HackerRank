@@ -80,6 +80,7 @@
     <Compile Include="SocksMerchantProblem.cs" />
     <Compile Include="SpecialPalindrome.cs" />
     <Compile Include="SuperMarketPriceInversions.cs" />
+    <Compile Include="TimeComplexityPrimality.cs" />
     <Compile Include="TimeGapBetweenMeetings.cs" />
     <Compile Include="TwoStrings.cs" />
   </ItemGroup>
