@@ -45,7 +45,11 @@ namespace HackerRank
             //PlusMult.GetPlusMult();
             //BubbleSort.GetSwapsCount();
             //FlippingBits.FlipBits();
-            TimeComplexityPrimality.Primality();
+            //TimeComplexityPrimality.Primality();
+            //RecursionFibonacciNumbers.GetNthFibonacciNumber();
+            //FindDigits.GetDigitsCount();
+            //IntroToChallenges.GetIndex();
+            DiamondMine.GetDiamondCount();
             Console.WriteLine("Hello World!");
             Console.ReadKey();
 

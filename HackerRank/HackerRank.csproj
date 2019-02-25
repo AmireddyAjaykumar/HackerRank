@@ -56,9 +56,12 @@
     <Compile Include="BubbleSort.cs" />
     <Compile Include="CountTriplets.cs" />
     <Compile Include="DayoftheProgrammer.cs" />
+    <Compile Include="DiamondMine.cs" />
     <Compile Include="DivisibleSumPairs.cs" />
+    <Compile Include="FindDigits.cs" />
     <Compile Include="FlippingBits.cs" />
     <Compile Include="Hourglass.cs" />
+    <Compile Include="IntroToChallenges.cs" />
     <Compile Include="JumpingOnClouds.cs" />
     <Compile Include="Kangaroo.cs" />
     <Compile Include="LeadLife.cs" />
@@ -72,6 +75,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RansomNote.cs" />
+    <Compile Include="RecursionFibonacciNumbers.cs" />
     <Compile Include="RepeatedStrings.cs" />
     <Compile Include="SequentialSets.cs" />
     <Compile Include="SherlockAndAnagrams.cs" />
