@@ -49,7 +49,9 @@ namespace HackerRank
             //RecursionFibonacciNumbers.GetNthFibonacciNumber();
             //FindDigits.GetDigitsCount();
             //IntroToChallenges.GetIndex();
-            DiamondMine.GetDiamondCount();
+            //DiamondMine.GetDiamondCount();
+            //StrangeCounter.Execute();
+            BigSorting.Sort();
             Console.WriteLine("Hello World!");
             Console.ReadKey();
 
