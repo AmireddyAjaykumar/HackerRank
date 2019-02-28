@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="ACMICPCTeam.cs" />
     <Compile Include="AlternatingCharacters.cs" />
+    <Compile Include="AngryProfessor.cs" />
     <Compile Include="AppendAndDelete.cs" />
     <Compile Include="ArrayLeftRotation.cs" />
     <Compile Include="ArrayManipulation.cs" />
@@ -68,6 +69,7 @@
     <Compile Include="Kangaroo.cs" />
     <Compile Include="LeadLife.cs" />
     <Compile Include="MakeAnagram.cs" />
+    <Compile Include="MaxArraySum.cs" />
     <Compile Include="MaxOccurenceOfSubstring.cs" />
     <Compile Include="MiniMaxSum.cs" />
     <Compile Include="MinimumSwaps.cs" />

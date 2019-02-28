@@ -51,7 +51,9 @@ namespace HackerRank
             //IntroToChallenges.GetIndex();
             //DiamondMine.GetDiamondCount();
             //StrangeCounter.Execute();
-            BigSorting.Sort();
+            //BigSorting.Sort();
+            //AngryProfessor.Execute();
+            MaxArraySum.Execute();
             Console.WriteLine("Hello World!");
             Console.ReadKey();
 
