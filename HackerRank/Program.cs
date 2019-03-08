@@ -53,7 +53,11 @@ namespace HackerRank
             //StrangeCounter.Execute();
             //BigSorting.Sort();
             //AngryProfessor.Execute();
-            MaxArraySum.Execute();
+            //MaxArraySum.Execute();
+            //Abbreviation.Execute();
+            SortingSingleLoop.Sort();
+            //InsertionSort.Sort();
+            //MergeSort.Execute();
             Console.WriteLine("Hello World!");
             Console.ReadKey();
 
