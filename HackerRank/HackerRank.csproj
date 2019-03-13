@@ -63,6 +63,7 @@
     <Compile Include="DiamondMine.cs" />
     <Compile Include="DivisibleSumPairs.cs" />
     <Compile Include="FindDigits.cs" />
+    <Compile Include="FindLinkedListLoop.cs" />
     <Compile Include="FlippingBits.cs" />
     <Compile Include="Hourglass.cs" />
     <Compile Include="InsertionSort.cs" />
@@ -92,6 +93,7 @@
     <Compile Include="SortingSingleLoop.cs" />
     <Compile Include="SpecialPalindrome.cs" />
     <Compile Include="StrangeCounter.cs" />
+    <Compile Include="StringDistinctPermutations.cs" />
     <Compile Include="SuperMarketPriceInversions.cs" />
     <Compile Include="TimeComplexityPrimality.cs" />
     <Compile Include="TimeGapBetweenMeetings.cs" />

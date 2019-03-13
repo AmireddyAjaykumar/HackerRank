@@ -55,9 +55,11 @@ namespace HackerRank
             //AngryProfessor.Execute();
             //MaxArraySum.Execute();
             //Abbreviation.Execute();
-            SortingSingleLoop.Sort();
+            //SortingSingleLoop.Sort();
             //InsertionSort.Sort();
             //MergeSort.Execute();
+            //StringDistinctPermutations.Execute();
+            FindLinkedListLoop.Execute();
             Console.WriteLine("Hello World!");
             Console.ReadKey();
 
