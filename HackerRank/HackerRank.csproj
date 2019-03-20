@@ -85,6 +85,7 @@
     <Compile Include="RansomNote.cs" />
     <Compile Include="RecursionFibonacciNumbers.cs" />
     <Compile Include="RepeatedStrings.cs" />
+    <Compile Include="ReverseLinkedList.cs" />
     <Compile Include="SequentialSets.cs" />
     <Compile Include="SherlockAndAnagrams.cs" />
     <Compile Include="SherlockValidString.cs" />

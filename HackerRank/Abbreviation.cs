@@ -28,37 +28,86 @@ namespace HackerRank
             //    return "YES";
             //}
             //return "NO";
-            bool[,] dp = new bool[b.Length + 1, a.Length + 1];
-            dp[0,0] = true;
-            for (int j = 1; j <dp.GetLength(0); j++)
+            //bool[,] dp = new bool[b.Length + 1, a.Length + 1];
+            //dp[0,0] = true;
+            //for (int j = 1; j <dp.GetLength(0); j++)
+            //{
+            //    if (Char.IsLower(a[j - 1]))
+            //        dp[0,j] = dp[0,j - 1];
+            //}
+            //for (int i = 1; i < dp.GetLength(0); i++)
+            //{
+            //    for (int j = 1; j < dp.GetLength(0); j++)
+            //    {
+            //        char ca = a[j - 1], cb = b[i - 1];
+            //        if (ca >= 'A' && ca <= 'Z')
+            //        {
+            //            if (ca == cb)
+            //            {
+            //                dp[i,j] = dp[i - 1,j - 1];
+            //            }
+            //        }
+            //        else
+            //        {
+            //            ca = Char.ToUpper(ca);
+            //            if (ca == cb)
+            //                dp[i,j] = dp[i - 1,j - 1] || dp[i,j - 1];
+            //            else
+            //                dp[i,j] = dp[i,j - 1];
+            //        }
+            //    }
+            //}
+
+            //return dp[b.Length,a.Length] ? "YES" : "NO";
+
+            if (a == null && b == null)
             {
-                if (Char.IsLower(a[j - 1]))
-                    dp[0,j] = dp[0,j - 1];
+                return "YES";
             }
-            for (int i = 1; i < dp.GetLength(0); i++)
+            if ((a == null && b != null) || (a != null && b == null))
             {
-                for (int j = 1; j < dp.GetLength(0); j++)
+                return "NO";
+            }
+            int bIt = 0;
+            int aIt;
+            for (aIt = 0; aIt < a.Length; aIt++)
+            {
+                if (bIt >= b.Length)
                 {
-                    char ca = a[j - 1], cb = b[i - 1];
-                    if (ca >= 'A' && ca <= 'Z')
+                    break;
+                }
+                char aChar = a[aIt];
+                char bChar = b[bIt];
+                if ((aChar == bChar) || (char.ToUpper(aChar) == bChar))
+                {
+                    bIt++;
+                    continue;
+                }
+                else if (Char.IsLower(aChar))
+                {
+                    continue;
+                }
+                else
+                {
+                    return "NO";
+                }
+            }
+            if (aIt != a.Length)
+            {
+                for (; aIt < a.Length; aIt++)
+                {
+                    char aChar = a[aIt];
+                    if (!Char.IsLower(aChar))
                     {
-                        if (ca == cb)
-                        {
-                            dp[i,j] = dp[i - 1,j - 1];
-                        }
-                    }
-                    else
-                    {
-                        ca = Char.ToUpper(ca);
-                        if (ca == cb)
-                            dp[i,j] = dp[i - 1,j - 1] || dp[i,j - 1];
-                        else
-                            dp[i,j] = dp[i,j - 1];
+                        return "NO";
                     }
                 }
             }
-
-            return dp[b.Length,a.Length] ? "YES" : "NO";
+            if ((bIt != b.Length))
+            {
+                return "NO";
+            }
+            return "YES";
         }
 
         public static void Execute()
