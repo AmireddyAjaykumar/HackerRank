@@ -60,7 +60,8 @@ namespace HackerRank
             //MergeSort.Execute();
             //StringDistinctPermutations.Execute();
             //FindLinkedListLoop.Execute();
-            ReverseLinkedList.Execute();
+            //ReverseLinkedList.Execute();
+            BalancedBrackets.Execute();
             Console.WriteLine("Hello World!");
             Console.ReadKey();
 

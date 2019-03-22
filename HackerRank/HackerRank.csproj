@@ -51,6 +51,7 @@
     <Compile Include="AppendAndDelete.cs" />
     <Compile Include="ArrayLeftRotation.cs" />
     <Compile Include="ArrayManipulation.cs" />
+    <Compile Include="BalancedBrackets.cs" />
     <Compile Include="BeautifulSubArrays.cs" />
     <Compile Include="BetweenTwoSets.cs" />
     <Compile Include="BigSorting.cs" />
